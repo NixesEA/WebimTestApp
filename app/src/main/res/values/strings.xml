@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebimTestApp</string>
+    <string name="defaultOnline">online</string>
+    <string name="default_item_name">name</string>
+    <string name="auth">Авторизоваться</string>
+    <string name="error_auth">Ошибка во время авторизации</string>
+    <string name="successful_auth">Авторизация прошла успешно</string>
+
+    <integer name="com_vk_sdk_AppId">6813716</integer>
+</resources>
